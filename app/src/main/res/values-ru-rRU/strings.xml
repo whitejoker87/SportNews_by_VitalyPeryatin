@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="football">Футбол</string>
+    <string name="hockey">Хоккей</string>
+    <string name="tennis">Теннис</string>
+    <string name="basketball">Баскетбол</string>
+    <string name="volleyball">Воллейбол</string>
+    <string name="cybersport">Киберспорт</string>
+    <string name="wait_please">Пожалуйста подождите…</string>
+    <string name="no_connection">Нет соединения</string>
+    <string name="check_network">Проверьте подключение к сети</string>
+</resources>

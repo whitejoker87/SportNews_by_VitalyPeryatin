@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">SportNews</string>
+    <string name="football">Football</string>
+    <string name="hockey">Hockey</string>
+    <string name="tennis">Tennis</string>
+    <string name="basketball">Basketball</string>
+    <string name="volleyball">Volleyball</string>
+    <string name="cybersport">Cybersport</string>
+    <string name="wait_please">Wait Please…</string>
+    <string name="no_connection">No connection</string>
+    <string name="check_network">Check network connection</string>
+    <string name="coefficient" translatable="false">Coefficient</string>
+    <string name="time" translatable="false">Time</string>
+    <string name="place" translatable="false">Place</string>
+    <string name="title" translatable="false">Title</string>
+    <string name="preview" translatable="false">Preview</string>
+</resources>
